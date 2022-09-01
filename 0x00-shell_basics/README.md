@@ -1,1 +1,1 @@
-list current directory hidden format long
+list current directory hidden numeric format long
