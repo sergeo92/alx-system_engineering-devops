@@ -1,1 +1,1 @@
-remove betty
+remove betty in /tmp
