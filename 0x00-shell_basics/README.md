@@ -1,1 +1,1 @@
-list current directory hiddens format long
+list current directory hidden format long
