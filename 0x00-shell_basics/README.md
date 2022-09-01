@@ -1,1 +1,1 @@
-remove directory in /tmp
+list current directory and /boot
