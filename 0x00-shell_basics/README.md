@@ -1,1 +1,1 @@
-remove betty in /tmp
+remove directory in /tmp
