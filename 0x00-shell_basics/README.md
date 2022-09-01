@@ -1,1 +1,1 @@
-change directory
+list current directory format long
