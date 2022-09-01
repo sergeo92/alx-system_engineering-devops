@@ -1,1 +1,1 @@
-list current directory hidden numeric format long
+create directory
