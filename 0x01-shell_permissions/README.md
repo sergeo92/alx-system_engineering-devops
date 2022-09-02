@@ -1,1 +1,1 @@
-Display username
+Display username of current user
