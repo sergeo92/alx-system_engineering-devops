@@ -1,1 +1,1 @@
-change group and mode
+Change owner and group
