@@ -1,1 +1,1 @@
-Add permission others
+Add permission
