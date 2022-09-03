@@ -1,1 +1,1 @@
-Add permissions of hello a olley
+Add permissions execution all subdirectories
