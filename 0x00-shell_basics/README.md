@@ -1,1 +1,1 @@
-list current directory and /boot
+change the workin directory to previous one
