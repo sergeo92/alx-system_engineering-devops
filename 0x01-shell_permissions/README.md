@@ -1,1 +1,1 @@
-Add permissions execution all subdirectories
+Create directory with permissions 751
