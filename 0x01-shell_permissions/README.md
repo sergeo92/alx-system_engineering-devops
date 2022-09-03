@@ -1,1 +1,1 @@
-Add permission owner
+Add permission execution all
