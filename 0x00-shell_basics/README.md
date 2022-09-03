@@ -1,1 +1,1 @@
-List all directories
+Remove directories
