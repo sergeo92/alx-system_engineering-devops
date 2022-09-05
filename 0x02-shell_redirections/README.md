@@ -1,1 +1,1 @@
-Display Smiley 
+Display content /etc/passd
