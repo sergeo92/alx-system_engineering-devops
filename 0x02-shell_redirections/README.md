@@ -1,1 +1,1 @@
-Display contents /etc/passd
+Display contents files /etc/passd and /etc/hosts
