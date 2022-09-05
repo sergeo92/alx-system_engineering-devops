@@ -1,1 +1,1 @@
-Display content /etc/passd
+Display contents /etc/passd
