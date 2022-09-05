@@ -1,1 +1,1 @@
-Display the content of ls -la in  file
+Display the third lines 
