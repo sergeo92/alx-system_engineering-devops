@@ -1,1 +1,1 @@
-Delete all files js
+Delete all files javascript
