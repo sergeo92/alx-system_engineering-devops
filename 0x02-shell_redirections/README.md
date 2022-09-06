@@ -1,1 +1,1 @@
-Count all the lines content "bin" in the file /etc/passd
+Displey the lines of the file /etc/passwd do not contain bin
