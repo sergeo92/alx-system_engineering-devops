@@ -1,1 +1,1 @@
-Displey the lines of the file /etc/passwd do not contain bin
+Displey the lines of the file /etc/ssh/sshd_config starting by letter
