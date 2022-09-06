@@ -1,1 +1,1 @@
-Display all files content root
+Count all the lines content bin in the file /etc/passd
