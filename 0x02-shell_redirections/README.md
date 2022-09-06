@@ -1,1 +1,1 @@
-Delete all file javascript
+Duplicate the last line of the file
