@@ -1,1 +1,1 @@
-Displey the lines of the file /etc/ssh/sshd_config starting by letter
+Displey lines containing the pattern root and 3 lines 
