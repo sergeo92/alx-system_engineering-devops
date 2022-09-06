@@ -1,1 +1,1 @@
-Duplicate the last line of the file
+list of words as input and prints only word that appear exactly once
