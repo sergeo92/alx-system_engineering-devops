@@ -9,3 +9,4 @@
 8- Display the result of the addition of 128 with the value stored in the variable
 9- Display the result of POWER divided by DIVIDE
 10- Display the result of BREATH power LOVE
+11- Script convert a number from base 2 to base 10
