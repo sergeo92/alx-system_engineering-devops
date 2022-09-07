@@ -7,3 +7,4 @@
 6- Create a global variable
 7- Create a new global variables
 8- Display the result of the addition of 128 with the value stored in the variable
+9- Display the result of POWER divided by DIVIDE
