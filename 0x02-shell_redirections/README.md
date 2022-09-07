@@ -1,1 +1,1 @@
-Script that display all empty files and directories in the current directory and sub-directory
+Script that display all files with a .gif extension and in the current directory and all its sub-directory
