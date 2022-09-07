@@ -1,1 +1,1 @@
-Replace all letters C and c 
+Remove all letters C and C from input
