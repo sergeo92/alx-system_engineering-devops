@@ -4,3 +4,4 @@
 3- Add a script count the number directory in the path
 4- Display all environment variables
 5- Lists all local variables and fonctions
+6- Create a global variable
