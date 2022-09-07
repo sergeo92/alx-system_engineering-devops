@@ -10,3 +10,4 @@
 9- Display the result of POWER divided by DIVIDE
 10- Display the result of BREATH power LOVE
 11- Script convert a number from base 2 to base 10
+12- Script that print all possible combinaison of the two letters, excep oo
