@@ -6,3 +6,4 @@
 5- Lists all local variables and fonctions
 6- Create a global variable
 7- Create a new global variables
+8- Display the result of the addition of 128 with the value stored in the variable
