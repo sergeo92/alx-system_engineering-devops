@@ -5,4 +5,4 @@
 4- Display all environment variables
 5- Lists all local variables and fonctions
 6- Create a global variable
-7- Create a new global variable
+7- Create a new global variables
