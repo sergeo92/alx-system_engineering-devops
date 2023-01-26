@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-
-for i in `seq 1 10`
+# Script Bash prints 10 times "Best School"
+for _  in $(seq 1 10); 
 do
     echo "Best School"
 done
