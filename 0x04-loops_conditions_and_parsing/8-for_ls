@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Script Bash prints 10 times "Best School"
+for item  in *; 
+do
+    echo "$item" | cut -d '-' -f2
+done
