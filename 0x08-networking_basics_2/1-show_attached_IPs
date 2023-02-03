@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #bash script that listens on port 98 on localhost
-ip add show | grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}'
-
+ifconfig | grep -o '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}'
